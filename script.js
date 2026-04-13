@@ -3,17 +3,17 @@ const products = [
     {
         name: "Chicken Boiler 🐔",
         price: "Rs. 440/kg",
-        image: "images/chickenboiler.jpg"
+        image: "chickenboiler.jpg"
     },
     {
         name: "Mutton 🐐",
         price: "Rs. 1200/kg",
-        image: "images/goatmeat.jpg"
+        image: "goatmeat.jpg"
     },
     {
         name: "Chicken Giriraj 🐔",
         price: "Rs. 750/kg",
-        image: "images/giriraj.jpg"
+        image: "giriraj.jpg"
     }
 ];
 
