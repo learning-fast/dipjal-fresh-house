@@ -2,7 +2,7 @@
 const products = [
     {
         name: "Chicken Boiler 🐔",
-        price: "Rs. 440/kg",
+        price: "Rs. 450/kg",
         image: "chickenboiler.jpg"
     },
     {
